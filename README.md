@@ -1,7 +1,7 @@
 # Project Infra 구축
 
 # NCP(Naver Cloud Platform) 사용
-![Logo](https://github.com/mermaid-pirates/mermaid-infra/asset/msg_logo_thumb.jpg)
+![Logo](https://github.com/mermaid-pirates/mermaid-infra/blob//main/asset/msg_logo_thumb.jpg)
 
 ### 설정 방법
 https://decisive-vacuum-569.notion.site/fc5905b058864e70a13950cf737eebda
